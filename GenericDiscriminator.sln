@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericDiscriminator", "GenericDiscriminator\GenericDiscriminator.csproj", "{CF52BEAD-016F-4062-A10C-342AD21A3720}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CF52BEAD-016F-4062-A10C-342AD21A3720}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF52BEAD-016F-4062-A10C-342AD21A3720}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF52BEAD-016F-4062-A10C-342AD21A3720}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF52BEAD-016F-4062-A10C-342AD21A3720}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
